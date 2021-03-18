@@ -7,6 +7,7 @@ The contracts that determine the Yield-Farming and Staking protocols in the BSC 
 ## Deployed Contracts / Hash
 - Complus(COM) - [0x7fa892544D49598460B821De4D99E8c28b1Decaa](https://bscscan.com/address/0x7fa892544d49598460b821de4d99e8c28b1decaa#code)
 
+- Timelock - [0x9309eC8333a65C58B319F4405E199463A2e5c91A](https://bscscan.com/address/0x9309ec8333a65c58b319f4405e199463a2e5c91a#code)
 - Multicall - [0xCD413eD064DF3db6f05217fa8d533b7642E8e5Ba](https://bscscan.com/address/0xcd413ed064df3db6f05217fa8d533b7642e8e5ba#code)
 - ConverterRegistryContract - [0x3D2050077B256133825628ed8BB3B35B0C17f54d](https://bscscan.com/address/0x3d2050077b256133825628ed8bb3b35b0c17f54d#code)
 
